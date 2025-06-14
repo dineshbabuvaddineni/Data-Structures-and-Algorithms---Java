@@ -13,6 +13,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0069-sqrtx) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
