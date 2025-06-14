@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0069-sqrtx) |
 | [1013-fibonacci-number](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/1013-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
