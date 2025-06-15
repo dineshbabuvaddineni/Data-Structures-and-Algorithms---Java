@@ -16,11 +16,13 @@
 | [0075-sort-colors](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0219-contains-duplicate-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0136-single-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
