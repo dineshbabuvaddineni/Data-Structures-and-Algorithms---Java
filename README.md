@@ -14,6 +14,7 @@
 | [0001-two-sum](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
