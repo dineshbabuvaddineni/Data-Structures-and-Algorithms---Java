@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0219-contains-duplicate-ii) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
