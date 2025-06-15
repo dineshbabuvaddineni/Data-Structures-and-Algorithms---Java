@@ -15,10 +15,12 @@
 | [0066-plus-one](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
