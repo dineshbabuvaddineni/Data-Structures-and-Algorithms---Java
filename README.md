@@ -47,6 +47,7 @@
 | [0125-valid-palindrome](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -65,4 +66,5 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
