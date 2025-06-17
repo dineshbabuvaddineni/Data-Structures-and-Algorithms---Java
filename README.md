@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0258-add-digits) |
@@ -63,6 +64,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0136-single-number) |
 ## Sliding Window
 |  |
@@ -71,6 +73,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0344-reverse-string) |
@@ -78,6 +81,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
