@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0168-excel-sheet-column-title) |
+| [0258-add-digits](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
@@ -74,4 +75,12 @@
 | [0168-excel-sheet-column-title](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0345-reverse-vowels-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
