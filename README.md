@@ -28,6 +28,7 @@
 | [0283-move-zeroes](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0861-flipping-an-image](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0861-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0344-reverse-string](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0349-intersection-of-two-arrays) |
+| [0861-flipping-an-image](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0861-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 | [0067-add-binary](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0268-missing-number) |
+| [0861-flipping-an-image](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0861-flipping-an-image) |
 ## Sliding Window
 |  |
 | ------- |
@@ -97,8 +100,13 @@
 | ------- |
 | [0067-add-binary](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0258-add-digits) |
+| [0861-flipping-an-image](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0861-flipping-an-image) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0258-add-digits) |
+## Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
