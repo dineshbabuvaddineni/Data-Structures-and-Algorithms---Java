@@ -81,6 +81,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0861-flipping-an-image) |
 ## Sliding Window
@@ -109,4 +110,8 @@
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0861-flipping-an-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
