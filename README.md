@@ -9,6 +9,7 @@
 | [0067-add-binary](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/1013-fibonacci-number) |
@@ -45,6 +46,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -82,6 +84,7 @@
 | [0067-add-binary](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0861-flipping-an-image) |
 ## Sliding Window
