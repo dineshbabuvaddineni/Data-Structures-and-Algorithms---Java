@@ -94,6 +94,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0168-excel-sheet-column-title) |
@@ -117,4 +118,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0191-number-of-1-bits) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
