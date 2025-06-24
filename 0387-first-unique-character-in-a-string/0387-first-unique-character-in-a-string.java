@@ -2,7 +2,7 @@ import java.util.*;
 class Solution {
     public int firstUniqChar(String s) {
         char[] arr=s.toCharArray();
-        Hashtable<Character,Integer> table=new Hashtable<>();
+        HashMap<Character,Integer> table=new HashMap<>();
         for(int i=0;i<arr.length;i++){
              if(table.containsKey(arr[i])){
                 table.put(arr[i],table.get(arr[i])+1);
