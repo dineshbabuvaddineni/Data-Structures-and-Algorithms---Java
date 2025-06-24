@@ -102,6 +102,7 @@
 | [0344-reverse-string](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0520-detect-capital](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0520-detect-capital) |
 ## Simulation
 |  |
 | ------- |
