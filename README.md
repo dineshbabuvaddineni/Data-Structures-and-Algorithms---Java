@@ -13,6 +13,7 @@
 | [0258-add-digits](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/1013-fibonacci-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0231-power-of-two](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0861-flipping-an-image) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
