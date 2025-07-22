@@ -40,6 +40,7 @@
 | [0268-missing-number](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -81,6 +82,7 @@
 | [0217-contains-duplicate](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [0191-number-of-1-bits](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sliding Window
@@ -106,6 +109,7 @@
 | [0344-reverse-string](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/dineshbabuvaddineni/Data-Structures-and-Algorithms---Java/tree/master/0520-detect-capital) |
 ## Simulation
 |  |
